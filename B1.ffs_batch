@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FreeFileSync XmlType="BATCH" XmlFormat="23">
+    <Notes/>
+    <Compare>
+        <Variant>TimeAndSize</Variant>
+        <Symlinks>Exclude</Symlinks>
+        <IgnoreTimeShift/>
+    </Compare>
+    <Synchronize>
+        <Differences LeftOnly="right" LeftNewer="right" RightNewer="right" RightOnly="right"/>
+        <DeletionPolicy>RecycleBin</DeletionPolicy>
+        <VersioningFolder Style="Replace"/>
+    </Synchronize>
+    <Filter>
+        <Include>
+            <Item>*</Item>
+        </Include>
+        <Exclude>
+            <Item>\System Volume Information\</Item>
+            <Item>\$Recycle.Bin\</Item>
+            <Item>\RECYCLE?\</Item>
+            <Item>\Recovery\</Item>
+            <Item>*\thumbs.db</Item>
+        </Exclude>
+        <SizeMin Unit="None">0</SizeMin>
+        <SizeMax Unit="None">0</SizeMax>
+        <TimeSpan Type="None">0</TimeSpan>
+    </Filter>
+    <FolderPairs>
+        <Pair>
+            <Left>D:\Zx\Wallpapers</Left>
+            <Right>E:\Zx\B1\Zx\Wallpapers</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\v4 美冬巡璃</Left>
+            <Right>E:\Zx\B1\v4 美冬巡璃</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\v3 Excel</Left>
+            <Right>E:\Zx\B1\v3 Excel</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\v2 CodeL</Left>
+            <Right>E:\Zx\B1\v2 CodeL</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\v1 Code</Left>
+            <Right>E:\Zx\B1\v1 Code</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\s2 Media</Left>
+            <Right>E:\Zx\B1\s2 Media</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\s1 Anime\Manga</Left>
+            <Right>E:\Zx\B1\s1 Anime\Manga</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\s1 Anime\Light Novels</Left>
+            <Right>E:\Zx\B1\s1 Anime\Light Novels</Right>
+        </Pair>
+        <Pair>
+            <Left>C:\Users\mifuy\Desktop</Left>
+            <Right>E:\Zx\B1\Zz\Desktop</Right>
+        </Pair>
+    </FolderPairs>
+    <Errors Ignore="false" Retry="0" Delay="5"/>
+    <PostSyncCommand Condition="Completion"/>
+    <LogFolder/>
+    <EmailNotification Condition="Always"/>
+    <GridViewType>Action</GridViewType>
+    <Batch>
+        <ProgressDialog Minimized="true" AutoClose="true"/>
+        <ErrorDialog>Show</ErrorDialog>
+        <PostSyncAction>None</PostSyncAction>
+    </Batch>
+</FreeFileSync>
