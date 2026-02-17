@@ -29,39 +29,39 @@
     <FolderPairs>
         <Pair>
             <Left>D:\Zx\Wallpapers</Left>
-            <Right>E:\Zx\B1\Zx\Wallpapers</Right>
+            <Right>E:\永\Zx\Wallpapers</Right>
         </Pair>
         <Pair>
             <Left>D:\v4 美冬巡璃</Left>
-            <Right>E:\Zx\B1\v4 美冬巡璃</Right>
+            <Right>E:\永\v4 美冬巡璃</Right>
         </Pair>
         <Pair>
             <Left>D:\v3 Excel</Left>
-            <Right>E:\Zx\B1\v3 Excel</Right>
+            <Right>E:\永\v3 Excel</Right>
         </Pair>
         <Pair>
             <Left>D:\v2 CodeL</Left>
-            <Right>E:\Zx\B1\v2 CodeL</Right>
+            <Right>E:\永\v2 CodeL</Right>
         </Pair>
         <Pair>
             <Left>D:\v1 Code</Left>
-            <Right>E:\Zx\B1\v1 Code</Right>
+            <Right>E:\永\v1 Code</Right>
         </Pair>
         <Pair>
             <Left>D:\s2 Media</Left>
-            <Right>E:\Zx\B1\s2 Media</Right>
+            <Right>E:\永\s2 Media</Right>
         </Pair>
         <Pair>
             <Left>D:\s1 Anime\Manga</Left>
-            <Right>E:\Zx\B1\s1 Anime\Manga</Right>
+            <Right>E:\永\s1 Anime\Manga</Right>
         </Pair>
         <Pair>
             <Left>D:\s1 Anime\Light Novels</Left>
-            <Right>E:\Zx\B1\s1 Anime\Light Novels</Right>
+            <Right>E:\永\s1 Anime\Light Novels</Right>
         </Pair>
         <Pair>
             <Left>C:\Users\mifuy\Desktop</Left>
-            <Right>E:\Zx\B1\Zz\Desktop</Right>
+            <Right>E:\永\Zz\Desktop</Right>
         </Pair>
     </FolderPairs>
     <Errors Ignore="false" Retry="0" Delay="5"/>
